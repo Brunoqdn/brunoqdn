@@ -53,8 +53,8 @@
  <br/>
  <br>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoqdn&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoqdn&show_icons=true&theme=dracula&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoqdn&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=objective-c,java,scss)
 
 # 🦖 My Holopin's Badges 
 
