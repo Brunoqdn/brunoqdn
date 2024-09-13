@@ -1,13 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello 
 <img src="https://komarev.com/ghpvc/?username=brunoqdn&color=green" alt="Profile views" /> 
 
-
-
 ### 📖 Student of Internet Systems Technology at IFSul Charqueadas
-### 🪖 Officer in the Brazilian Army
-
+### 🪖 Army Officer
 ### 🎖️ I'm a developer currently studying Internet Systems Technology at IFSul Charqueadas, with solid experience in leadership and discipline, gained during my journey as an Officer in the Brazilian Army.
-
 ### 📫 Let's Connect: Feel free to reach out if you're interested in collaborating or learning more about my projects.
 
 <br/>
